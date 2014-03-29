@@ -1,0 +1,18 @@
+C:\Users\Express\AppData\Local\Temporary Projects\Visual ReNamer .NET\bin\Debug\Visual_ReNamer.NET.exe
+C:\Users\Express\AppData\Local\Temporary Projects\Visual ReNamer .NET\bin\Debug\Visual_ReNamer.NET.pdb
+C:\Users\Express\AppData\Local\Temporary Projects\Visual ReNamer .NET\bin\Debug\Visual_ReNamer.NET.xml
+C:\Users\Express\AppData\Local\Temporary Projects\Visual ReNamer .NET\obj\x86\Debug\Visual_ReNamer.NET.Form1.resources
+C:\Users\Express\AppData\Local\Temporary Projects\Visual ReNamer .NET\obj\x86\Debug\Visual_ReNamer.NET.Resources.resources
+C:\Users\Express\AppData\Local\Temporary Projects\Visual ReNamer .NET\obj\x86\Debug\Visual ReNamer .NET.vbproj.GenerateResource.Cache
+C:\Users\Express\AppData\Local\Temporary Projects\Visual ReNamer .NET\obj\x86\Debug\Visual_ReNamer.NET.exe
+C:\Users\Express\AppData\Local\Temporary Projects\Visual ReNamer .NET\obj\x86\Debug\Visual_ReNamer.NET.xml
+C:\Users\Express\AppData\Local\Temporary Projects\Visual ReNamer .NET\obj\x86\Debug\Visual_ReNamer.NET.pdb
+H:\NB USER\Programing\VB.NET NEW\Project\Visual ReNamer .NET\Visual ReNamer .NET\bin\Debug\Visual ReNamer .NET.exe
+H:\NB USER\Programing\VB.NET NEW\Project\Visual ReNamer .NET\Visual ReNamer .NET\bin\Debug\Visual ReNamer .NET.pdb
+H:\NB USER\Programing\VB.NET NEW\Project\Visual ReNamer .NET\Visual ReNamer .NET\bin\Debug\Visual ReNamer .NET.xml
+H:\NB USER\Programing\VB.NET NEW\Project\Visual ReNamer .NET\Visual ReNamer .NET\obj\x86\Debug\Visual_ReNamer.NET.Form1.resources
+H:\NB USER\Programing\VB.NET NEW\Project\Visual ReNamer .NET\Visual ReNamer .NET\obj\x86\Debug\Visual_ReNamer.NET.Resources.resources
+H:\NB USER\Programing\VB.NET NEW\Project\Visual ReNamer .NET\Visual ReNamer .NET\obj\x86\Debug\Visual ReNamer .NET.vbproj.GenerateResource.Cache
+H:\NB USER\Programing\VB.NET NEW\Project\Visual ReNamer .NET\Visual ReNamer .NET\obj\x86\Debug\Visual ReNamer .NET.exe
+H:\NB USER\Programing\VB.NET NEW\Project\Visual ReNamer .NET\Visual ReNamer .NET\obj\x86\Debug\Visual ReNamer .NET.xml
+H:\NB USER\Programing\VB.NET NEW\Project\Visual ReNamer .NET\Visual ReNamer .NET\obj\x86\Debug\Visual ReNamer .NET.pdb
