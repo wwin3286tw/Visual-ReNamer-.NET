@@ -1,2 +1,2 @@
-language: basic
+language: csharp
 solution: "Visual-ReNamer-.NET/Visual ReNamer .NET.sln"
